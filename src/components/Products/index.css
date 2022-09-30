@@ -1,0 +1,9 @@
+.products-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-images {
+  width: 30%;
+}
